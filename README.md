@@ -1,4 +1,4 @@
-# youlend_cypress
+# Youlend Cypress test
 
 This contains the Cypress tests for the web automation test and the API call test.
 
